@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quizApp</string>
+    <string name="btn_answer">choice</string>
+    <string name="result_score">Result : %d / 4</string>
+</resources>
